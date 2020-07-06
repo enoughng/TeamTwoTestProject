@@ -1,13 +1,13 @@
 package two.spring.test;
 
 /**
- * 예린 테스트
- *
+ * interrupt
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hi my name is Yerin!!" );
+        System.out.println( "Hi my name is not Yerin!!" );
+        System.out.println( "Hi my name is not YeongJae!!" );
     }
 }
