@@ -9,6 +9,8 @@
 	<configs>
 		<config>src/main/resources/applicationContext.xml</config>
 		<config>src/main/resources/transactionOne.xml</config>
+		<config>src/main/resources/transactionTwo.xml</config>
+		<config>src/main/resources/transactionThree.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
