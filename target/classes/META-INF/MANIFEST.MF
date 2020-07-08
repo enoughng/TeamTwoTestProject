@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: yerin
 Build-Jdk: 1.8.0_241
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: kdk70
+Build-Jdk: 1.8.0_251
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> 0de56e2a34e05578837d32eed858fb3b182586d6
